@@ -1,4 +1,4 @@
-# ¡Acepta el Reto!
+# ¡Acepta el reto!
 
 Aquí están mis soluciones a varios problemas de [Acepta el Reto](https://www.aceptaelreto.com). Para aquellos retos en los que tenga más de una solución, la aquí subida será la que mejor puntuación me haya dado (en principio).
 
@@ -17,7 +17,8 @@ Lista de ejercicios subidos:
 * **[140 - Suma de dígitos:](https://www.aceptaelreto.com/problem/statement.php?id=140)** Accepted. 
 * *Quedan más por subir...* 
 
-#### NOTA: todos los códigos están compilados con GCC. Algunos son viejos y dan pena, otros siguen el estándar de C++11.
+**NOTA: todos los códigos están compilados con GCC. Algunos son viejos y dan pena, otros siguen el estándar de C++11.**
+
 Si os dieran problemas al compilar, os dejo los aliases que suelo utilizar en *bash*, generalmente uso *e++11*:
 ```bash
 # Añadidlo a vuestro .bashrc o similar
