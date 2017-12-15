@@ -14,7 +14,14 @@ Lista de ejercicios subidos:
 * **[116 - ¡Hola Mundo!:](https://www.aceptaelreto.com/problem/statement.php?id=116)** Accepted. 
 * **[127 - Una, dola, tela, catola... :](https://www.aceptaelreto.com/problem/statement.php?id=127)** Accepted. 
 * **[129 - Marcadores de 7 segmentos:](https://www.aceptaelreto.com/problem/statement.php?id=129)** Memory limit exceded. 
-* **[140 - Suma de dígitos:](https://www.aceptaelreto.com/problem/statement.php?id=140)** Accepted. 
+* **[140 - Suma de dígitos:](https://www.aceptaelreto.com/problem/statement.php?id=140)** Accepted.
+* **[141 - Paréntesis balanceados:](https://www.aceptaelreto.com/problem/statement.php?id=141)** Accepted.
+* **[143 - Tortitas:](https://www.aceptaelreto.com/problem/statement.php?id=143)** Accepted.
+* **[145 - El tren del amor:](https://www.aceptaelreto.com/problem/statement.php?id=145)** Accepted.
+* **[146 - Números afortunados:](https://www.aceptaelreto.com/problem/statement.php?id=146)** Accepted.
+* **[152 - Va de modas... :](https://www.aceptaelreto.com/problem/statement.php?id=152)** Accepted.
+* **[161 - Cálculo de la Mediana:](https://www.aceptaelreto.com/problem/statement.php?id=161)** Accepted.
+* **[182 - Persistencia multiplicativa de los números:](https://www.aceptaelreto.com/problem/statement.php?id=182)** Accepted.
 * *Quedan más por subir...* 
 
 **NOTA: todos los códigos están compilados con GCC. Algunos son viejos y dan pena, otros siguen el estándar de C++11.**
