@@ -13,7 +13,7 @@ Lista de ejercicios subidos:
 * **[115 - Número de Kaprekar:](https://www.aceptaelreto.com/problem/statement.php?id=115)** Accepted. 
 * **[116 - ¡Hola Mundo!:](https://www.aceptaelreto.com/problem/statement.php?id=116)** Accepted. 
 * **[127 - Una, dola, tela, catola... :](https://www.aceptaelreto.com/problem/statement.php?id=127)** Accepted. 
-* **[129 - Marcadores de 7 segmentos:](https://www.aceptaelreto.com/problem/statement.php?id=129)** Memory limit exceded. 
+* **[129 - Marcadores de 7 segmentos:](https://www.aceptaelreto.com/problem/statement.php?id=129)** Memory limit exceeded. 
 * **[140 - Suma de dígitos:](https://www.aceptaelreto.com/problem/statement.php?id=140)** Accepted.
 * **[141 - Paréntesis balanceados:](https://www.aceptaelreto.com/problem/statement.php?id=141)** Accepted.
 * **[143 - Tortitas:](https://www.aceptaelreto.com/problem/statement.php?id=143)** Accepted.
@@ -22,6 +22,15 @@ Lista de ejercicios subidos:
 * **[152 - Va de modas... :](https://www.aceptaelreto.com/problem/statement.php?id=152)** Accepted.
 * **[161 - Cálculo de la Mediana:](https://www.aceptaelreto.com/problem/statement.php?id=161)** Accepted.
 * **[182 - Persistencia multiplicativa de los números:](https://www.aceptaelreto.com/problem/statement.php?id=182)** Accepted.
+* **[195 - Saltos de trampolín:](https://www.aceptaelreto.com/problem/statement.php?id=195)** Accepted.
+* **[198 - Evaluando expresiones:](https://www.aceptaelreto.com/problem/statement.php?id=198)** Accepted.
+* **[214 - Abdicación de un Rey:](https://www.aceptaelreto.com/problem/statement.php?id=214)** Accepted.
+* **[236 - Los orígenes del ajedrez:](https://www.aceptaelreto.com/problem/statement.php?id=236)** Accepted.
+* **[238 - Repartiendo el botín:](https://www.aceptaelreto.com/problem/statement.php?id=238)** Accepted.
+* **[263 - El cuadrado de Rubik:](https://www.aceptaelreto.com/problem/statement.php?id=263)** Accepted.
+* **[266 - Copistas daltónicos:](https://www.aceptaelreto.com/problem/statement.php?id=266)** Memory limit exceeded.
+* **[268 - Desarrollos en las bicicletas:](https://www.aceptaelreto.com/problem/statement.php?id=268)** Accepted.
+* **[270 - Me pilló el toro:](https://www.aceptaelreto.com/problem/statement.php?id=270)** Accepted.
 * *Quedan más por subir...* 
 
 **NOTA: todos los códigos están compilados con GCC. Algunos son viejos y dan pena, otros siguen el estándar de C++11.**
