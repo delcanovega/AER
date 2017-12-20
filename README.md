@@ -31,7 +31,15 @@ Lista de ejercicios subidos:
 * **[266 - Copistas daltónicos:](https://www.aceptaelreto.com/problem/statement.php?id=266)** Memory limit exceeded.
 * **[268 - Desarrollos en las bicicletas:](https://www.aceptaelreto.com/problem/statement.php?id=268)** Accepted.
 * **[270 - Me pilló el toro:](https://www.aceptaelreto.com/problem/statement.php?id=270)** Accepted.
-* *Quedan más por subir...* 
+* **[284 - La tienda de la esquina:](https://www.aceptaelreto.com/problem/statement.php?id=284)** Accepted.
+* **[291 - Referencias cruzadas:](https://www.aceptaelreto.com/problem/statement.php?id=291)** Accepted.
+* **[310 - Altura de un árbol general:](https://www.aceptaelreto.com/problem/statement.php?id=310)** Accepted.
+* **[317 - El código de la T.I.A.:](https://www.aceptaelreto.com/problem/statement.php?id=317)** Wrong answer.
+* **[337 - La abuela María:](https://www.aceptaelreto.com/problem/statement.php?id=337)** Accepted.
+* **[347 - Haciendo pajaritas de papel:](https://www.aceptaelreto.com/problem/statement.php?id=347)** Accepted.
+* **[349 - Jan el olvidado:](https://www.aceptaelreto.com/problem/statement.php?id=349)** Accepted.
+* **[353 - El cazatesoros:](https://www.aceptaelreto.com/problem/statement.php?id=353)** Time limit exceeded.
+* **[397 - ¿Es múltiplo de 3?:](https://www.aceptaelreto.com/problem/statement.php?id=397)** Accepted.
 
 **NOTA: todos los códigos están compilados con GCC. Algunos son viejos y dan pena, otros siguen el estándar de C++11.**
 
